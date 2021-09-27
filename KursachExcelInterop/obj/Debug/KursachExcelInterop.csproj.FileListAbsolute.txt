@@ -1,0 +1,70 @@
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe.config
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.pdb
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csprojAssemblyReference.cache
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.MainF.resources
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.Properties.Resources.resources
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.GenerateResource.cache
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.CoreCompileInputs.cache
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.exe
+G:\Repos\Gopopedy Software\trunk\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.pdb
+E:\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe.config
+E:\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe
+E:\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.pdb
+E:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csprojResolveAssemblyReference.cache
+E:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.MainF.resources
+E:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.Properties.Resources.resources
+E:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.GenerateResource.Cache
+E:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.CoreCompileInputs.cache
+E:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.exe
+E:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.pdb
+D:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csprojResolveAssemblyReference.cache
+D:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.MainF.resources
+D:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.Properties.Resources.resources
+D:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.GenerateResource.Cache
+D:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.CoreCompileInputs.cache
+D:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.exe
+D:\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.pdb
+D:\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe.config
+D:\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe
+D:\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.pdb
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe.config
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.pdb
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.MainF.resources
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.GenerateResource.Cache
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.exe
+C:\Users\Aleksandr\Desktop\file\Новая папка (2)\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.pdb
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe.config
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.pdb
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.MainF.resources
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.GenerateResource.Cache
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.exe
+C:\Users\Aleksandr\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.pdb
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe.config
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.pdb
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csprojAssemblyReference.cache
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.MainF.resources
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.Properties.Resources.resources
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.GenerateResource.cache
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.CoreCompileInputs.cache
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.exe
+C:\Users\Silve\Desktop\Новая папка\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.pdb
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe.config
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.exe
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\bin\Debug\KursachExcelInterop.pdb
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.MainF.resources
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.Properties.Resources.resources
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.exe
+C:\Users\Александр\Desktop\git\KursachExcelInterop\KursachExcelInterop\obj\Debug\KursachExcelInterop.pdb
